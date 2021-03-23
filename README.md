@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 28.03.2000  
+**Course Date:** 22.03.2021  
 **Name:** Günuğur  
 **Surname:** Uzunköprü  
 **Email:** gunugur2000@gmail.com  
